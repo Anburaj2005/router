@@ -1,0 +1,57 @@
+{
+    "users":[
+            {
+                "ID":"1",
+                "firstName":"rakesh",
+                "Lastname":"kannan",
+                "email":"rk@gmail.com",
+                "Age":"34",
+                "companyid":"1"
+            },
+
+        {
+            "ID":"2",
+            "firstName":"Arun",
+            "Lastname":"vignesh",
+            "email":"arunk@gmail.com",
+            "Age":"34",
+            "companyid":"2"
+        },
+
+        {
+            "ID":"3",
+            "firstName":"sahesh",
+            "Lastname":"kumar",
+            "email":"srkk@gmail.com",
+            "Age":"45",
+            "companyid":"3"
+      },
+{
+    "ID":"4",
+    "firstName":"vinoth",
+    "Lastname":"kumar",
+    "email":"vinoth@gmail.com",
+    "Age":"32",
+    "companyid":"3"
+}
+    ],
+
+ 
+    "companies": [
+        {
+        "Id":"1",
+        "Name":"Apple",
+        "description":"Apple store"
+    },
+    {
+    "Id":"2",
+    "Name":"Ms office",
+    "description":"outlook"
+        },
+{
+    "Id":"3",
+    "Name":"Google",
+    "description":"google nest"
+}
+    ]
+}
